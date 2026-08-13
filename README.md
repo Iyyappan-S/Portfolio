@@ -76,7 +76,7 @@ The portfolio is designed with a modern responsive UI and is powered by a Node.j
 
 ---
 
-# 📂 Project Structure
+# 📂Project Structure
 
 ```
 Portfolio

@@ -24,7 +24,7 @@
 
 # 📖 About
 
-This is my personal portfolio website showcasing my technical skills, projects, achievements, certifications, internships, and contact information.
+This is my personal portfolio website showcasing my technical skills, projects, achievements, certifications, internships,and contact information.
 
 The portfolio is designed with a modern responsive UI and is powered by a Node.js backend that stores visitor messages in MongoDB and sends email notifications through Gmail using Nodemailer.
 

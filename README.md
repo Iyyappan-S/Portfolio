@@ -12,7 +12,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-Iyyappan--S-orange?style=for-the-badge\&logo=leetcode)](https://leetcode.com/u/Iyyappan-S/)
 
 </div>
-
 ---
 
 # 🌐 Live Demo

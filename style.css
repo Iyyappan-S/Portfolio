@@ -42,7 +42,7 @@ body {
 
 @keyframes drift {
     to {
-        background-position: 400px 250px, -300px 350px
+        background-position: 401px 250px, -300px 350px
     }
 }
 

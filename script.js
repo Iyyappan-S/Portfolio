@@ -8,3 +8,4 @@ cards.forEach(c=>{c.style.opacity='0';c.style.transform='translateY(30px)';revea
 const style=document.createElement('style');
 style.innerHTML='.show{opacity:1!important;transform:translateY(0)!important;transition:.7s ease}';
 document.head.appendChild(style);
+
